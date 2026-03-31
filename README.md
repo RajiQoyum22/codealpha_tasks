@@ -25,6 +25,8 @@ Amazon Product Reviews Sentiment & Customer Insights Dashboard
 
 ## 📈 Dashboard Preview
 
+<img width="871" height="488" alt="mydashboard" src="https://github.com/user-attachments/assets/0a0cc32c-d95d-4101-8b3b-05865ecaeb1f" />
+
 
 ## 🙌 Acknowledgment
 Special thanks to CodeAlpha for this practical learning opportunity.
