@@ -24,7 +24,7 @@ Amazon Product Reviews Sentiment & Customer Insights Dashboard
 - **Task4_Sentiment_Analysis** → Sentiment SQL logic and insights
 
 ## 📈 Dashboard Preview
-(Add your uploaded dashboard screenshot here)
+
 
 ## 🙌 Acknowledgment
 Special thanks to CodeAlpha for this practical learning opportunity.
