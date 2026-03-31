@@ -77,9 +77,9 @@ The goal of this task is to transform Amazon customer review data into an intera
 - Interactive slicers
 
 ## 🖼️ Dashboard Preview
-Add this image:
 
-![Dashboard](dashboard_preview.png)
+<img width="871" height="488" alt="mydashboard" src="https://github.com/user-attachments/assets/013ab5d6-94be-41d1-bdb4-c1e0e0056d79" />
+
 
 ## 📌 Business Value
 This dashboard helps stakeholders quickly understand:
